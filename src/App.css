@@ -174,8 +174,8 @@ Hero
 
 .hero {
   min-height: 100vh;
-  /* background: var(--clr-primary-5); */
-  background-color: red;
+  background: var(--clr-primary-5);
+ 
   display: flex;
   justify-content: center;
   align-items: center;
